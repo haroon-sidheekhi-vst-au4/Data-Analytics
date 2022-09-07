@@ -54,3 +54,6 @@ ax.set_title(team1 +" vs "+ team2 + " passmap", fontsize = 20)
 fig.suptitle( "2019 FIFA WOMEN'S WORLD CUP", fontsize = 10)
 fig.set_size_inches(10, 7)
 plt.show()
+
+
+df_pass = df.loc[mask_england, ['startX', 'startY', 'endX', 'endY', "player_name", "pass_recipient_name"]]
