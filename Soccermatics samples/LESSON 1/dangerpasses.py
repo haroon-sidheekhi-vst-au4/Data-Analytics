@@ -1,10 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Sep 17 19:30:18 2022
+Created on Wed Sep  7 23:32:41 2022
 
 @author: dev
 """
-
 
 import matplotlib.pyplot as plt
 from mplsoccer import Pitch, Sbopen
@@ -59,17 +58,12 @@ for idx in match_ids:
         danger_passes = pd.concat([danger_passes, danger_passes_period])
 
 #plot pitch
-#plot vertical pitch
-pitch = Pitch(line_zorder=2, line_color='black')
+pitch = Pitch(line_color='black')
 fig, ax = pitch.grid(grid_height=0.9, title_height=0.06, axis=False,
                      endnote_height=0.04, title_space=0, endnote_space=0)
-#get the 2D histogram
-bin_statistic = pitch.bin_statistic(danger_passes.x, danger_passes.y, statistic='count', bins=(6, 5), normalize=False)
-#normalize by number of games
-bin_statistic["statistic"] = bin_statistic["statistic"]/no_games
-pcm  = pitch.heatmap(bin_statistic, cmap='Reds', edgecolor='grey', ax=ax['pitch'])
-#legend to our plot
-ax_cbar = fig.add_axes((1, 0.093, 0.03, 0.786))
-cbar = plt.colorbar(pcm, cax=ax_cbar)
-fig.suptitle('Danger passes by ' + team + " per game", fontsize = 30)
+#scatter the location on the pitch
+pitch.scatter(danger_passes.x, danger_passes.y, s=100, color='blue', edgecolors='grey', linewidth=1, alpha=0.2, ax=ax["pitch"])
+pitch.arrows(danger_passes.x, danger_passes.y, danger_passes.end_x, danger_passes.end_y, color = "blue", ax=ax['pitch'])
+
+fig.suptitle('Location of danger passes by ' + team, fontsize = 30)
 plt.show()
