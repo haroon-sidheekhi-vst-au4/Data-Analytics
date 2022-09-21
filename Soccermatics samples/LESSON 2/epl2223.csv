@@ -1,0 +1,419 @@
+﻿Rk,Player,Nation,Pos,Squad,Age,MP,Starts,Min,90s,Gls,Ast,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,xG,npxG,xA,npxG+xA,xG,xA,xG+xA,npxG,npxG+xA,Matches,-9999
+1,Brenden Aaronson,us USA,MFFW,Leeds United,21,6,6,501,5.6,1,1,1,0,0,2,0,0.18,0.18,0.36,0.18,0.36,1.2,1.2,0.4,1.6,0.22,0.07,0.29,0.22,0.29,Matches,5bc43860
+2,Che Adams,sct SCO,FW,Southampton,26,6,5,462,5.1,2,0,2,0,0,0,0,0.39,0,0.39,0.39,0.39,1.1,1.1,1,2.1,0.22,0.19,0.41,0.22,0.41,Matches,f2bf1b0f
+3,Tyler Adams,us USA,MF,Leeds United,23,6,6,540,6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.2,0.3,0.01,0.04,0.05,0.01,0.05,Matches,2b09d998
+4,Tosin Adarabioyo,eng ENG,DF,Fulham,24,7,7,630,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,0.1,0.1,0.1,0.1,0.01,0.01,0.02,0.01,0.02,Matches,c81d773d
+5,Rayan Aït Nouri,fr FRA,DF,Wolves,21,6,5,451,5,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.8,1,0.03,0.17,0.2,0.03,0.2,Matches,9b398aea
+6,Kristoffer Ajer,no NOR,DF,Brentford,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a8c0acb7
+7,Manuel Akanji,ch SUI,DF,Manchester City,27,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,89ac64a6
+8,Nathan Aké,nl NED,DF,Manchester City,27,4,3,211,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.07,0,0.07,0.07,0.07,Matches,eaeca114
+9,Thiago Alcántara,es ESP,MF,Liverpool,31,1,1,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.25,0.25,0,0.25,Matches,77e84962
+10,Trent Alexander-Arnold,eng ENG,DF,Liverpool,23,6,6,480,5.3,1,0,1,0,0,1,0,0.19,0,0.19,0.19,0.19,0.3,0.3,0.7,1,0.06,0.14,0.19,0.06,0.19,Matches,cd1acf9d
+11,Alisson,br BRA,GK,Liverpool,29,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7a2e46a8
+12,Dele Alli,eng ENG,FWMF,Everton,26,2,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,cea4ee8f
+13,Miguel Almirón,py PAR,FW,Newcastle Utd,28,7,7,575,6.4,1,0,1,0,0,0,0,0.16,0,0.16,0.16,0.16,1.2,1.2,0.7,1.9,0.19,0.11,0.29,0.19,0.29,Matches,862a1c15
+14,Julián Álvarez,ar ARG,FW,Manchester City,22,5,1,169,1.9,2,0,2,0,0,0,0,1.07,0,1.07,1.07,1.07,0.8,0.8,0.4,1.2,0.45,0.2,0.64,0.45,0.64,Matches,15ab5a2b
+15,Daniel Amartey,gh GHA,DF,Leicester City,27,5,4,351,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.03,0.03,0,0.03,Matches,1a4ef233
+16,Joachim Andersen,dk DEN,DF,Crystal Palace,26,6,6,540,6,1,0,1,0,0,1,0,0.17,0,0.17,0.17,0.17,0.5,0.5,0.6,1.1,0.08,0.1,0.18,0.08,0.18,Matches,e34fc66d
+17,Elliot Anderson,sct SCO,FWMF,Newcastle Utd,19,3,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.2,0.6,1.14,0.48,1.62,1.14,1.62,Matches,de31038e
+18,Jaidon Anthony,eng ENG,FWDF,Bournemouth,22,5,1,157,1.7,1,0,1,0,0,0,0,0.57,0,0.57,0.57,0.57,0.5,0.5,0.1,0.6,0.29,0.08,0.37,0.29,0.37,Matches,e4238fb1
+19,Michail Antonio,jm JAM,FW,West Ham,32,7,6,454,5,1,1,1,0,0,1,0,0.2,0.2,0.4,0.2,0.4,0.8,0.8,0.2,1.1,0.16,0.05,0.21,0.16,0.21,Matches,ac05f970
+20,Antony,br BRA,FW,Manchester Utd,22,1,1,57,0.6,1,0,1,0,0,0,0,1.58,0,1.58,1.58,1.58,0.3,0.3,0,0.3,0.41,0,0.41,0.41,0.41,Matches,99127249
+21,Cameron Archer,eng ENG,MFFW,Aston Villa,20,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,05e8ca6d
+22,Alphonse Areola,fr FRA,GK,West Ham,29,1,0,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2f965a72
+23,Joe Aribo,ng NGA,MFFW,Southampton,26,7,4,442,4.9,1,0,1,0,0,1,0,0.2,0,0.2,0.2,0.2,1,1,0.2,1.2,0.2,0.04,0.24,0.2,0.24,Matches,328f7d51
+24,Adam Armstrong,eng ENG,FWMF,Southampton,25,7,6,457,5.1,1,1,1,0,0,0,0,0.2,0.2,0.39,0.2,0.39,0.4,0.4,0.6,1,0.08,0.12,0.2,0.08,0.2,Matches,68c720b5
+25,Stuart Armstrong,sct SCO,MFFW,Southampton,30,6,1,210,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.5,0.7,0.12,0.2,0.32,0.12,0.32,Matches,97333cf5
+26,Taiwo Awoniyi,ng NGA,FW,Nott'ham Forest,25,7,3,301,3.3,2,0,2,0,0,0,0,0.6,0,0.6,0.6,0.6,1.5,1.5,0.1,1.5,0.44,0.02,0.46,0.44,0.46,Matches,e5478b87
+27,Jordan Ayew,gh GHA,FWMF,Crystal Palace,31,6,5,399,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.4,0.9,0.11,0.08,0.19,0.11,0.19,Matches,da052c14
+28,Luke Ayling,eng ENG,DF,Leeds United,31,1,0,21,0.2,0,1,0,0,0,0,0,0,4.29,4.29,0,4.29,0.1,0.1,0.2,0.3,0.25,0.87,1.12,0.25,1.12,Matches,420d7c7d
+29,César Azpilicueta,es ESP,DF,Chelsea,33,5,2,222,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0,0.14,0.14,0,0.14,Matches,53cad200
+30,Leon Bailey,jm JAM,FWMF,Aston Villa,25,7,5,426,4.7,1,1,1,0,0,0,0,0.21,0.21,0.42,0.21,0.42,0.4,0.4,0.6,1,0.09,0.12,0.21,0.09,0.21,Matches,3a233281
+31,Stefan Bajcetic,es ESP,MF,Liverpool,17,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,32e8417f
+32,Patrick Bamford,eng ENG,FW,Leeds United,29,4,2,170,1.9,0,0,0,0,0,0,0,0,0,0,0,0,1.5,1.5,0,1.5,0.8,0,0.8,0.8,0.8,Matches,93feac6e
+33,Shandon Baptiste,gd GRN,MF,Brentford,24,7,2,222,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.4,0.04,0.14,0.18,0.04,0.18,Matches,2886c9b5
+34,Harvey Barnes,eng ENG,MFFW,Leicester City,24,5,5,390,4.3,1,0,1,0,0,0,0,0.23,0,0.23,0.23,0.23,1,1,0,1,0.22,0,0.22,0.22,0.22,Matches,3ea50f67
+35,Gavin Bazunu,ie IRL,GK,Southampton,20,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,Matches,c91441dc
+36,Mads Bech Sørensen,dk DEN,DF,Brentford,23,3,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,30db8574
+37,Jan Bednarek,pl POL,DF,Southampton,26,2,2,159,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.07,0.04,0.11,0.07,0.11,Matches,4115ce4e
+38,Donny van de Beek,nl NED,MF,Manchester Utd,25,3,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,50dc94ce
+39,Asmir Begović,ba BIH,GK,Everton,35,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7b4de647
+40,Armel Bella Kotchap,de GER,DF,Southampton,20,6,6,540,6,0,1,0,0,0,1,0,0,0.17,0.17,0,0.17,0.6,0.6,0.1,0.7,0.1,0.01,0.11,0.1,0.11,Matches,a39d11bc
+41,Saïd Benrahma,dz ALG,MFFW,West Ham,27,7,3,355,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,1,1.3,0.09,0.24,0.33,0.09,0.33,Matches,5a04fd92
+42,Rodrigo Bentancur,uy URU,MF,Tottenham,25,6,6,522,5.8,1,1,1,0,0,2,0,0.17,0.17,0.34,0.17,0.34,0.4,0.4,0.3,0.7,0.07,0.06,0.13,0.07,0.13,Matches,3b8674e6
+43,Owen Bevan,wls WAL,DF,Bournemouth,18,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,87966294
+44,Giulian Biancone,fr FRA,DF,Nott'ham Forest,22,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,de40e38c
+45,Philip Billing,dk DEN,MFFW,Bournemouth,26,7,5,480,5.3,2,0,2,0,0,1,0,0.37,0,0.37,0.37,0.37,0.2,0.2,0.3,0.5,0.04,0.05,0.09,0.04,0.09,Matches,d328a254
+46,Yves Bissouma,ml MLI,MF,Tottenham,26,6,1,141,1.6,0,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.04,0.07,0.12,0.04,0.12,Matches,6c203af0
+47,Willy Boly,ci CIV,DF,Nott'ham Forest,31,1,1,62,0.7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a4ac4b8f
+48,Sven Botman,nl NED,DF,Newcastle Utd,22,5,4,361,4,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.4,0.9,0.11,0.1,0.21,0.11,0.21,Matches,ccce7025
+49,Jarrod Bowen,eng ENG,FW,West Ham,25,7,7,623,6.9,0,0,0,0,0,0,0,0,0,0,0,0,1.1,1.1,0.4,1.5,0.16,0.06,0.22,0.16,0.22,Matches,79c84d1c
+50,Armando Broja,al ALB,FW,Chelsea,21,4,0,73,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0,0.4,0.45,0,0.45,0.45,0.45,Matches,97220da2
+51,Emi Buendía,ar ARG,FWMF,Aston Villa,25,7,2,270,3,1,0,1,0,0,0,0,0.33,0,0.33,0.33,0.33,1.3,1.3,0.1,1.5,0.45,0.05,0.49,0.45,0.49,Matches,66b76d44
+52,Dan Burn,eng ENG,DF,Newcastle Utd,30,7,6,525,5.8,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0.1,0.5,0.07,0.02,0.09,0.07,0.09,Matches,b2d31e83
+53,Cafú,pt POR,MF,Nott'ham Forest,29,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,85322440
+54,Moisés Caicedo,ec ECU,MF,Brighton,20,6,6,527,5.9,1,0,1,0,0,0,0,0.17,0,0.17,0.17,0.17,0.3,0.3,0.2,0.5,0.06,0.04,0.09,0.06,0.09,Matches,16264a81
+55,Tom Cairney,sct SCO,MF,Fulham,31,7,0,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.17,0.17,0.34,0.17,0.34,Matches,a8748947
+56,Chem Campbell,wls WAL,FWMF,Wolves,19,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6f711f67
+57,João Cancelo,pt POR,DF,Manchester City,28,7,7,577,6.4,1,0,1,0,0,2,0,0.16,0,0.16,0.16,0.16,0.3,0.3,0.3,0.6,0.04,0.05,0.09,0.04,0.09,Matches,bd6351cd
+58,Diego Carlos,br BRA,DF,Aston Villa,29,2,2,179,2,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.13,0,0.13,0.13,0.13,Matches,b4a014b1
+59,Fabio Carvalho,pt POR,MFFW,Liverpool,20,6,1,153,1.7,2,0,2,0,0,0,0,1.18,0,1.18,1.18,1.18,0.7,0.7,0,0.7,0.39,0,0.39,0.39,0.39,Matches,966e28d0
+60,Casemiro,br BRA,MF,Manchester Utd,30,3,0,54,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4d224fe8
+61,Matty Cash,pl POL,DF,Aston Villa,25,6,6,475,5.3,0,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0.3,0.4,0.02,0.06,0.08,0.02,0.08,Matches,2389cdc2
+62,Timothy Castagne,be BEL,DF,Leicester City,26,6,5,495,5.5,1,1,1,0,0,0,0,0.18,0.18,0.36,0.18,0.36,0.4,0.4,0.1,0.5,0.07,0.02,0.09,0.07,0.09,Matches,197640fd
+63,Jonny Castro,es ESP,DF,Wolves,28,7,7,617,6.9,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.2,0.02,0,0.02,0.02,0.02,Matches,e28868f3
+64,Nathaniel Chalobah,eng ENG,MF,Fulham,27,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,3.09,0,3.09,3.09,3.09,Matches,422862ea
+65,Trevoh Chalobah,eng ENG,DF,Chelsea,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5515376c
+66,Calum Chambers,eng ENG,DF,Aston Villa,27,2,1,91,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,dc6f5bdd
+67,Ben Chilwell,eng ENG,DF,Chelsea,25,5,1,122,1.4,1,1,1,0,0,0,0,0.74,0.74,1.48,0.74,1.48,0.2,0.2,0.1,0.2,0.11,0.06,0.17,0.11,0.17,Matches,d2424d1b
+68,Ryan Christie,sct SCO,MFFW,Bournemouth,27,7,5,393,4.4,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.3,0.8,0.12,0.06,0.18,0.12,0.18,Matches,26ce2263
+69,Bobby Clark,eng ENG,MF,Liverpool,17,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,73341ace
+70,Nathaniel Clyne,eng ENG,DF,Crystal Palace,31,5,4,371,4.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.1,0,0.02,0.02,0,0.02,Matches,0442183b
+71,Conor Coady,eng ENG,DF,Everton,29,6,6,530,5.9,0,1,0,0,0,1,0,0,0.17,0.17,0,0.17,0.2,0.2,0.3,0.5,0.03,0.06,0.08,0.03,0.08,Matches,2928dca2
+72,Jack Colback,eng ENG,MF,Nott'ham Forest,32,3,1,127,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.04,0.04,0,0.04,Matches,963a9201
+73,Nathan Collins,ie IRL,DF,Wolves,21,7,7,572,6.4,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0.1,0.1,0,0.01,0.01,0,0.01,Matches,a8c19eb8
+74,Levi Colwill,eng ENG,DF,Brighton,19,2,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7.01E+12
+75,Lewis Cook,eng ENG,MF,Bournemouth,25,7,5,473,5.3,0,1,0,0,0,0,0,0,0.19,0.19,0,0.19,0,0,0.1,0.1,0.01,0.01,0.02,0.01,0.02,Matches,2afc7272
+76,Steve Cook,eng ENG,DF,Nott'ham Forest,31,5,4,328,3.6,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.1,0.1,0,0.04,0.04,0,0.04,Matches,3e5e4e63
+77,Maxwel Cornet,ci CIV,FW,West Ham,25,4,0,57,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0,0.5,0.73,0,0.73,0.73,0.73,Matches,beb391dd
+78,Vladimír Coufal,cz CZE,DF,West Ham,30,7,6,592,6.6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.4,0.01,0.05,0.06,0.01,0.06,Matches,fdf3cb77
+79,Philippe Coutinho,br BRA,MFFW,Aston Villa,30,7,4,349,3.9,0,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,0.3,0.7,0.09,0.09,0.17,0.09,0.17,Matches,0ef89a37
+80,Conor Coventry,ie IRL,MF,West Ham,22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a5ca9127
+81,Aaron Cresswell,eng ENG,DF,West Ham,32,6,6,520,5.8,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.8,1,0.04,0.13,0.17,0.04,0.17,Matches,4f974391
+82,Marc Cucurella,es ESP,DF,Chelsea,24,6,5,446,5,0,2,0,0,0,2,0,0,0.4,0.4,0,0.4,0.2,0.2,0.4,0.6,0.04,0.08,0.12,0.04,0.12,Matches,1daec722
+83,Patson Daka,zm ZAM,FW,Leicester City,23,6,2,239,2.7,1,1,1,0,0,2,0,0.38,0.38,0.75,0.38,0.75,0.8,0.8,1.1,1.9,0.31,0.41,0.72,0.31,0.72,Matches,ca45605e
+84,Diogo Dalot,pt POR,DF,Manchester Utd,23,6,6,535,5.9,0,1,0,0,0,3,0,0,0.17,0.17,0,0.17,0.5,0.5,0.6,1.1,0.09,0.1,0.19,0.09,0.19,Matches,d9565625
+85,Mikkel Damsgaard,dk DEN,MFFW,Brentford,22,4,0,72,0.8,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.4,0.7,0.32,0.5,0.82,0.32,0.82,Matches,215f3907
+86,Josh Dasilva,eng ENG,MF,Brentford,23,7,4,372,4.1,2,0,2,0,0,1,0,0.48,0,0.48,0.48,0.48,0.2,0.2,0.1,0.2,0.04,0.02,0.06,0.04,0.06,Matches,60344e4f
+87,Ben Davies,wls WAL,DF,Tottenham,29,5,5,445,4.9,0,1,0,0,0,1,0,0,0.2,0.2,0,0.2,0.1,0.1,0.1,0.3,0.03,0.03,0.05,0.03,0.05,Matches,44781702
+88,Tom Davies,eng ENG,MF,Everton,24,5,3,276,3.1,0,0,0,0,0,2,0,0,0,0,0,0,0.4,0.4,0.1,0.5,0.12,0.05,0.17,0.12,0.17,Matches,9228b07c
+89,Kevin De Bruyne,be BEL,MF,Manchester City,31,7,6,538,6,1,6,1,0,0,0,0,0.17,1,1.17,0.17,1.17,1.4,1.4,3.2,4.6,0.23,0.53,0.76,0.23,0.76,Matches,e46012d4
+90,Leander Dendoncker,be BEL,MF,Wolves,27,4,2,214,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.4,0.15,0.02,0.16,0.15,0.16,Matches,5a7301ae
+91,Leander Dendoncker,be BEL,MF,Aston Villa,27,1,0,24,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,5a7301ae
+92,Emmanuel Dennis,ng NGA,FW,Nott'ham Forest,24,4,0,64,0.7,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.2,0.33,0,0.33,0.33,0.33,Matches,2c44a35d
+93,Halil Dervişoğlu,tr TUR,MF,Brentford,22,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.21,0,0.21,0.21,0.21,Matches,9d8cf204
+94,Kiernan Dewsbury-Hall,eng ENG,MF,Leicester City,24,7,6,524,5.8,1,0,1,0,0,1,0,0.17,0,0.17,0.17,0.17,0.2,0.2,0.5,0.7,0.04,0.09,0.12,0.04,0.12,Matches,5c74c0f5
+95,Ibrahima Diallo,fr FRA,MF,Southampton,23,4,3,206,2.3,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.03,0.02,0.04,0.03,0.04,Matches,11ff3d56
+96,Rúben Dias,pt POR,DF,Manchester City,25,7,6,583,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.05,0.02,0.06,0.05,0.06,Matches,31c69ef1
+97,Luis Díaz,co COL,FW,Liverpool,25,6,6,527,5.9,3,0,3,0,0,1,0,0.51,0,0.51,0.51,0.51,2.1,2.1,0.3,2.4,0.36,0.06,0.42,0.36,0.42,Matches,4a1a9578
+98,Eric Dier,eng ENG,DF,Tottenham,28,7,7,630,7,2,0,2,0,0,0,0,0.29,0,0.29,0.29,0.29,0.4,0.4,0.1,0.5,0.06,0.01,0.07,0.06,0.07,Matches,ac861941
+99,Lucas Digne,fr FRA,DF,Aston Villa,29,7,7,630,7,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.5,0.7,0.03,0.07,0.09,0.03,0.09,Matches,1b84dbe1
+100,Issa Diop,fr FRA,DF,Fulham,25,2,1,102,1.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a712ca2b
+101,Moussa Djenepo,ml MLI,DFFW,Southampton,24,7,5,481,5.3,0,1,0,0,0,0,0,0,0.19,0.19,0,0.19,0.1,0.1,0.2,0.3,0.01,0.04,0.05,0.01,0.05,Matches,254147d4
+102,Matt Doherty,ie IRL,DF,Tottenham,30,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,d557d734
+103,Gabriel Dos Santos,br BRA,DF,Arsenal,24,7,7,630,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,1.3,1.3,0,1.3,0.19,0,0.19,0.19,0.19,Matches,67ac5bb8
+104,Abdoulaye Doucouré,ml MLI,MF,Everton,29,3,2,134,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.1,0,0.1,0.1,0.1,Matches,02b29014
+105,Cheick Doucouré,ml MLI,MF,Crystal Palace,22,6,6,512,5.7,0,1,0,0,0,1,0,0,0.18,0.18,0,0.18,0.2,0.2,0.8,1,0.03,0.15,0.18,0.03,0.18,Matches,ce4f40c7
+106,Flynn Downes,eng ENG,MF,West Ham,23,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,69fdb896
+107,Cody Drameh,eng ENG,DF,Leeds United,20,1,1,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.1,0,0.1,Matches,e0d1510a
+108,Shane Duffy,ie IRL,DFFW,Fulham,30,2,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7314bba4
+109,Lewis Dunk,eng ENG,DF,Brighton,30,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.02,0.01,0.03,0.02,0.03,Matches,282f75f3
+110,Malcolm Ebiowei,eng ENG,FW,Crystal Palace,19,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,fa9fa773
+111,Ederson,br BRA,GK,Manchester City,29,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,3bb7b8b4
+112,Odsonne Édouard,fr FRA,FW,Crystal Palace,24,6,3,285,3.2,0,1,0,0,0,1,0,0,0.32,0.32,0,0.32,0.9,0.9,0.3,1.2,0.29,0.09,0.38,0.29,0.38,Matches,0562b7f1
+113,Samuel Edozie,eng ENG,MFFW,Southampton,19,2,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches,007414dd
+114,Anthony Elanga,se SWE,FW,Manchester Utd,20,5,3,214,2.4,0,1,0,0,0,0,0,0,0.42,0.42,0,0.42,0.5,0.5,0.8,1.3,0.22,0.34,0.56,0.22,0.56,Matches,2fba6108
+115,Harvey Elliott,eng ENG,MF,Liverpool,19,6,5,422,4.7,1,0,1,0,0,0,0,0.21,0,0.21,0.21,0.21,0.5,0.5,1.3,1.8,0.1,0.28,0.38,0.1,0.38,Matches,c8387671
+116,Mohamed Elneny,eg EGY,MF,Arsenal,30,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,47a34c4f
+117,Mohamed Elyounoussi,no NOR,FWMF,Southampton,28,6,6,435,4.8,0,0,0,0,0,1,0,0,0,0,0,0,0.8,0.8,0.3,1.1,0.16,0.07,0.23,0.16,0.23,Matches,68dc0dac
+118,Emerson,br BRA,DF,Tottenham,23,7,6,563,6.3,0,1,0,0,0,0,0,0,0.16,0.16,0,0.16,0.3,0.3,0.2,0.5,0.05,0.03,0.08,0.05,0.08,Matches,df8b52a5
+119,Christian Eriksen,dk DEN,MFFW,Manchester Utd,30,6,6,530,5.9,0,1,0,0,0,1,0,0,0.17,0.17,0,0.17,1,1,1.3,2.3,0.17,0.22,0.39,0.17,0.39,Matches,980522ec
+120,Pervis Estupiñán,ec ECU,DF,Brighton,24,4,2,170,1.9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0.01,0.54,0.55,0.01,0.55,Matches,d38fdf53
+121,Jonny Evans,nir NIR,DF,Leicester City,34,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f8fcd2a5
+122,Eberechi Eze,eng ENG,MFFW,Crystal Palace,24,6,6,478,5.3,0,2,0,0,0,0,0,0,0.38,0.38,0,0.38,0.7,0.7,0.9,1.6,0.13,0.17,0.3,0.13,0.3,Matches,ae4fc6a4
+123,Łukasz Fabiański,pl POL,GK,West Ham,37,7,7,568,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9328b835
+124,Fabinho,br BRA,MF,Liverpool,28,6,5,450,5,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.5,0.7,0.04,0.1,0.14,0.04,0.14,Matches,7f3b388c
+125,Wout Faes,be BEL,DF,Leicester City,24,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.08,0.08,0,0.08,Matches,9c221d14
+126,Bruno Fernandes,pt POR,MFFW,Manchester Utd,28,6,6,539,6,1,1,1,0,0,2,0,0.17,0.17,0.33,0.17,0.33,1.4,1.4,1.4,2.7,0.23,0.23,0.46,0.23,0.46,Matches,507c7bdf
+127,Roberto Firmino,br BRA,FWMF,Liverpool,30,5,4,343,3.8,3,3,3,0,0,0,0,0.79,0.79,1.57,0.79,1.57,2,2,0.6,2.7,0.53,0.17,0.7,0.53,0.7,Matches,4c370d81
+128,Phil Foden,eng ENG,FW,Manchester City,22,7,7,527,5.9,2,3,2,0,0,1,0,0.34,0.51,0.85,0.34,0.85,1.5,1.5,1.1,2.6,0.26,0.19,0.45,0.26,0.45,Matches,ed1e53f3
+129,Wesley Fofana,fr FRA,DF,Leicester City,21,2,2,180,2,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0,0.4,0.18,0,0.18,0.18,0.18,Matches,132a82f1
+130,Wesley Fofana,fr FRA,DF,Chelsea,21,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,Matches,132a82f1
+131,Pablo Fornals,es ESP,FWMF,West Ham,26,7,7,537,6,1,0,1,0,0,0,0,0.17,0,0.17,0.17,0.17,0.4,0.4,0.4,0.9,0.07,0.07,0.14,0.07,0.14,Matches,82927de4
+132,Adam Forshaw,eng ENG,MF,Leeds United,30,3,0,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.31,0.31,0,0.31,Matches,9f1938ab
+133,Tyrese Francois,au AUS,FW,Fulham,22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6722d4f0
+134,Ryan Fraser,sct SCO,FW,Newcastle Utd,28,5,3,238,2.6,0,0,0,0,0,1,0,0,0,0,0,0,0.5,0.5,0.3,0.8,0.18,0.13,0.31,0.18,0.31,Matches,d56543a0
+135,Fred,br BRA,MF,Manchester Utd,29,6,2,146,1.6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.3,0.3,0.01,0.17,0.18,0.01,0.18,Matches,b853e0ad
+136,Ryan Fredericks,eng ENG,DF,Bournemouth,29,2,0,67,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c067631c
+137,Remo Freuler,ch SUI,MF,Nott'ham Forest,30,3,2,175,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.04,0,0.04,0.04,0.04,Matches,98d2c2c4
+138,Conor Gallagher,eng ENG,MF,Chelsea,22,5,3,156,1.7,0,0,0,0,0,2,1,0,0,0,0,0,0,0,0.4,0.4,0.03,0.22,0.25,0.03,0.25,Matches,c2731c10
+139,Idrissa Gana Gueye,sn SEN,MF,Everton,32,2,1,119,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,72c812f3
+140,Alejandro Garnacho,es ESP,MF,Manchester Utd,18,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7aa8adfe
+141,David de Gea,es ESP,GK,Manchester Utd,31,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7ba6d84e
+142,Joe Gelhardt,eng ENG,FW,Leeds United,20,5,1,126,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0.7,0,0.7,0.5,0,0.5,0.5,0.5,Matches,01962d0d
+143,Saman Ghoddos,ir IRN,DFFW,Brentford,29,2,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,f7b1d4e0
+144,Morgan Gibbs-White,eng ENG,FW,Wolves,22,2,2,180,2,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.1,0.7,0.32,0.03,0.35,0.32,0.35,Matches,32f60ed8
+145,Morgan Gibbs-White,eng ENG,MFFW,Nott'ham Forest,22,5,4,357,4,0,1,0,0,0,0,0,0,0.25,0.25,0,0.25,0.3,0.3,0.4,0.7,0.08,0.1,0.18,0.08,0.18,Matches,32f60ed8
+146,Billy Gilmour,sct SCO,MF,Brighton,21,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,df10e27c
+147,Ben Godfrey,eng ENG,DF,Everton,24,1,1,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9f7c837d
+148,Joe Gomez,eng ENG,DF,Liverpool,25,5,4,388,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0.01,0.02,0.01,0.02,Matches,7a11550b
+149,Sergio Gómez,es ESP,DF,Manchester City,22,3,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.15,0,0.15,0.15,0.15,Matches,01e5f06e
+150,Anthony Gordon,eng ENG,FW,Everton,21,7,7,605,6.7,2,0,2,0,0,4,0,0.3,0,0.3,0.3,0.3,1.7,1.7,0.4,2.1,0.25,0.06,0.31,0.25,0.31,Matches,2bd83368
+151,Demarai Gray,eng ENG,FW,Everton,26,7,7,610,6.8,1,0,1,0,0,0,0,0.15,0,0.15,0.15,0.15,1.3,1.3,0.7,2.1,0.19,0.11,0.3,0.19,0.3,Matches,4468ec10
+152,Jack Grealish,eng ENG,FW,Manchester City,27,3,2,211,2.3,1,0,1,0,0,0,0,0.43,0,0.43,0.43,0.43,0.5,0.5,0.6,1.1,0.22,0.24,0.46,0.22,0.46,Matches,b0b4fd3e
+153,Sam Greenwood,eng ENG,MFFW,Leeds United,20,3,0,31,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.2,0.5,0.17,0.67,0.5,0.67,Matches,f3354c07
+154,Pascal Groß,de GER,MFFW,Brighton,31,6,6,540,6,3,2,3,0,0,0,0,0.5,0.33,0.83,0.5,0.83,1.9,1.9,1.6,3.5,0.31,0.27,0.58,0.31,0.58,Matches,8aec0537
+155,Vicente Guaita,es ESP,GK,Crystal Palace,35,6,6,540,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ab13a5aa
+156,Gonçalo Guedes,pt POR,FWMF,Wolves,25,6,4,383,4.3,0,1,0,0,0,1,0,0,0.23,0.23,0,0.23,0.6,0.6,0.4,1,0.13,0.1,0.23,0.13,0.23,Matches,e6bc67d7
+157,Marc Guéhi,eng ENG,DF,Crystal Palace,22,6,6,540,6,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.4,0.5,0.02,0.06,0.08,0.02,0.08,Matches,d0706b27
+158,Bruno Guimarães,br BRA,MF,Newcastle Utd,24,4,4,340,3.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.5,0.6,0.01,0.14,0.15,0.01,0.15,Matches,82518f62
+159,İlkay Gündoğan,de GER,MF,Manchester City,31,7,5,460,5.1,2,1,2,0,0,0,0,0.39,0.2,0.59,0.39,0.59,1.2,1.2,1.7,2.9,0.24,0.34,0.57,0.24,0.57,Matches,819b3158
+160,Erling Haaland,no NOR,FW,Manchester City,22,7,7,571,6.3,11,1,10,1,1,0,0,1.73,0.16,1.89,1.58,1.73,7.4,6.6,0.5,7.2,1.17,0.08,1.25,1.05,1.13,Matches,1f44ac21
+161,Jack Harrison,eng ENG,FW,Leeds United,25,6,6,463,5.1,1,3,1,0,0,2,0,0.19,0.58,0.78,0.19,0.78,0.9,0.9,1.9,2.8,0.18,0.37,0.54,0.18,0.54,Matches,aa849a12
+162,Kai Havertz,de GER,FWMF,Chelsea,23,6,5,427,4.7,1,0,1,0,0,3,0,0.21,0,0.21,0.21,0.21,0.9,0.9,0.1,1,0.19,0.02,0.21,0.19,0.21,Matches,fed7cb61
+163,Jan Paul van Hecke,nl NED,DF,Brighton,22,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4fd08daa
+164,Hwang Hee-chan,kr KOR,FW,Wolves,26,6,2,188,2.1,0,1,0,0,0,0,0,0,0.48,0.48,0,0.48,0.4,0.4,0.5,0.9,0.2,0.23,0.43,0.2,0.43,Matches,169fd162
+165,Dean Henderson,eng ENG,GK,Nott'ham Forest,25,7,7,630,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,e5a76dfe
+166,Jordan Henderson,eng ENG,MF,Liverpool,32,5,4,315,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.5,0.04,0.09,0.13,0.04,0.13,Matches,935e6b8f
+167,Rico Henry,eng ENG,DF,Brentford,25,7,7,630,7,0,1,0,0,0,0,0,0,0.14,0.14,0,0.14,0.4,0.4,0.8,1.2,0.06,0.12,0.18,0.06,0.18,Matches,8a3c1dc7
+168,Son Heung-min,kr KOR,MFFW,Tottenham,30,7,6,521,5.8,3,1,3,0,0,0,0,0.52,0.17,0.69,0.52,0.69,2.4,2.4,1.1,3.5,0.41,0.19,0.6,0.41,0.6,Matches,92e7e919
+169,Aaron Hickey,sct SCO,DF,Brentford,20,7,7,567,6.3,0,0,0,0,0,3,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0,0.01,0.01,0.01,Matches,1780bb4a
+170,Pierre Højbjerg,dk DEN,MF,Tottenham,27,7,7,630,7,2,1,2,0,0,1,0,0.29,0.14,0.43,0.29,0.43,0.3,0.3,1.1,1.4,0.04,0.16,0.2,0.04,0.2,Matches,8b04d6c1
+171,Rob Holding,eng ENG,DF,Arsenal,27,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,d79a8c87
+172,Mason Holgate,eng ENG,DF,Everton,25,4,3,320,3.6,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.2,0.6,0.08,0.07,0.16,0.08,0.16,Matches,d0042ab9
+173,Will Hughes,eng ENG,MF,Crystal Palace,27,4,0,50,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.57,0,0.57,0.57,0.57,Matches,a0666d3e
+174,Kelechi Iheanacho,ng NGA,FW,Leicester City,25,6,1,175,1.9,1,1,1,0,0,0,0,0.51,0.51,1.03,0.51,1.03,1.3,1.3,0.2,1.5,0.64,0.11,0.75,0.64,0.75,Matches,c92e1a31
+175,Danny Ings,eng ENG,FW,Aston Villa,30,6,3,259,2.9,1,0,1,0,0,2,0,0.35,0,0.35,0.35,0.35,0.6,0.6,0,0.6,0.2,0.01,0.21,0.2,0.21,Matches,07802f7f
+176,Alexander Isak,se SWE,FW,Newcastle Utd,22,3,3,242,2.7,2,0,1,1,1,0,0,0.74,0,0.74,0.37,0.37,2.2,1.4,0.3,1.7,0.81,0.12,0.94,0.52,0.65,Matches,8e92be30
+177,Alex Iwobi,ng NGA,MF,Everton,26,7,7,630,7,0,2,0,0,0,1,0,0,0.29,0.29,0,0.29,0.2,0.2,0.9,1.1,0.03,0.13,0.16,0.03,0.16,Matches,6ca5ec4b
+178,Daniel James,wls WAL,FWMF,Fulham,24,2,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.4,0.24,0.37,0.62,0.24,0.62,Matches,c931d9f9
+179,Daniel James,wls WAL,FW,Leeds United,24,4,2,198,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.3,0.5,0.11,0.13,0.24,0.11,0.24,Matches,c931d9f9
+180,Reece James,eng ENG,DF,Chelsea,22,5,5,450,5,1,1,1,0,0,3,0,0.2,0.2,0.4,0.2,0.4,0.6,0.6,1.2,1.8,0.11,0.24,0.35,0.11,0.35,Matches,1265a93a
+181,Vitaly Janelt,de GER,MFDF,Brentford,24,7,4,390,4.3,1,1,1,0,0,0,0,0.23,0.23,0.46,0.23,0.46,1.1,1.1,0.4,1.5,0.25,0.1,0.36,0.25,0.36,Matches,8449d35e
+182,Pontus Jansson,se SWE,DF,Brentford,31,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,172e52d8
+183,Mathias Jensen,dk DEN,MF,Brentford,26,7,7,508,5.6,1,2,1,0,0,0,0,0.18,0.35,0.53,0.18,0.53,0.3,0.3,1,1.3,0.06,0.18,0.24,0.06,0.24,Matches,0f134faf
+184,Gabriel Jesus,br BRA,FW,Arsenal,25,7,7,610,6.8,4,3,4,0,0,4,0,0.59,0.44,1.03,0.59,1.03,3.7,3.7,1.5,5.3,0.55,0.22,0.78,0.55,0.78,Matches,b66315ae
+185,Raúl Jiménez,mx MEX,FW,Wolves,31,3,2,212,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.8,0.8,0.6,1.4,0.35,0.25,0.6,0.35,0.6,Matches,b561db50
+186,Joelinton,br BRA,MF,Newcastle Utd,26,7,7,630,7,0,1,0,0,0,3,0,0,0.14,0.14,0,0.14,1.3,1.3,0.5,1.8,0.18,0.07,0.25,0.18,0.25,Matches,c17bfb65
+187,Ben Johnson,eng ENG,DF,West Ham,22,4,3,218,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.02,0.02,0,0.02,Matches,9319781b
+188,Brennan Johnson,wls WAL,FWMF,Nott'ham Forest,21,7,7,590,6.6,2,0,1,1,1,2,0,0.31,0,0.31,0.15,0.15,1.4,0.7,0.2,0.8,0.22,0.03,0.24,0.1,0.12,Matches,0cd31129
+189,Mathias Jørgensen,dk DEN,DF,Brentford,32,3,2,181,2,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.2,0.08,0.03,0.11,0.08,0.11,Matches,0db5d2c8
+190,Jorginho,it ITA,MF,Chelsea,30,6,5,372,4.1,1,0,0,1,1,0,0,0.24,0,0.24,0,0,0.8,0,0.1,0.2,0.2,0.04,0.24,0.01,0.05,Matches,45db685d
+191,Diogo Jota,pt POR,FW,Liverpool,25,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0.9,0.9,0,0.9,7.07,0.32,7.39,7.07,7.39,Matches,178ae8f8
+192,James Justin,eng ENG,DF,Leicester City,24,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.4,0.02,0.04,0.06,0.02,0.06,Matches,fb614c44
+193,Sasa Kalajdzic,at AUT,FW,Wolves,25,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.37,0,0.37,0.37,0.37,Matches,15f24fe7
+194,Boubacar Kamara,fr FRA,MF,Aston Villa,22,7,7,566,6.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0,0.01,Matches,cc77354e
+195,Harry Kane,eng ENG,FW,Tottenham,29,7,7,617,6.9,6,1,6,0,1,2,0,0.88,0.15,1.02,0.88,1.02,4.7,4,1.3,5.2,0.69,0.18,0.88,0.58,0.76,Matches,21a66f6a
+196,N'Golo Kanté,fr FRA,MF,Chelsea,31,2,2,174,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.05,0.1,0.16,0.05,0.16,Matches,b9fbae28
+197,Michael Keane,eng ENG,DF,Everton,29,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,c5b7c315
+198,Neeskens Kebano,cd COD,FW,Fulham,30,6,5,365,4.1,0,1,0,0,0,0,0,0,0.25,0.25,0,0.25,0.5,0.5,0.2,0.7,0.12,0.06,0.18,0.12,0.18,Matches,18b999f4
+199,Thilo Kehrer,de GER,DF,West Ham,25,5,5,450,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,51dbeea9
+200,Lloyd Kelly,eng ENG,DF,Bournemouth,23,5,5,450,5,0,2,0,0,0,0,0,0,0.4,0.4,0,0.4,0,0,0.1,0.1,0,0.02,0.02,0,0.02,Matches,f31def1e
+201,Max Kilman,eng ENG,DF,Wolves,25,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0,0.01,0.01,0.01,Matches,d0f72bf1
+202,Mateusz Klich,pl POL,MF,Leeds United,32,6,0,132,1.5,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.2,0.3,0.05,0.13,0.18,0.05,0.18,Matches,282679b4
+203,Robin Koch,de GER,DF,Leeds United,26,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.02,0,0.02,0.02,0.02,Matches,ea6bc03a
+204,Ezri Konsa,eng ENG,DF,Aston Villa,24,7,6,541,6,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.02,0,0.02,0.02,0.02,Matches,0313a347
+205,Kalidou Koulibaly,sn SEN,DF,Chelsea,31,5,5,427,4.7,1,0,1,0,0,2,1,0.21,0,0.21,0.21,0.21,0.4,0.4,0,0.4,0.08,0,0.08,0.08,0.08,Matches,da974c7b
+206,Cheikhou Kouyaté,sn SEN,MFDF,Nott'ham Forest,32,4,2,176,2,1,0,1,0,0,1,0,0.51,0,0.51,0.51,0.51,0.1,0.1,0,0.1,0.06,0,0.06,0.06,0.06,Matches,8d3c902d
+207,Mateo Kovačić,hr CRO,MF,Chelsea,28,3,1,132,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.3,0.3,0.04,0.19,0.23,0.04,0.23,Matches,79c0821a
+208,Emil Krafth,se SWE,DF,Newcastle Utd,28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,77cf6852
+209,Dejan Kulusevski,se SWE,MFFW,Tottenham,22,7,6,499,5.5,1,3,1,0,0,0,0,0.18,0.54,0.72,0.18,0.72,0.7,0.7,1.3,2.1,0.13,0.24,0.37,0.13,0.37,Matches,df3cda47
+210,Adam Lallana,eng ENG,MF,Brighton,34,3,3,201,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.2,0.5,0.14,0.08,0.22,0.14,0.22,Matches,99813635
+211,Tariq Lamptey,eng ENG,DF,Brighton,21,5,0,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.04,0.04,0,0.04,Matches,f4e433d4
+212,Manuel Lanzini,ar ARG,MFFW,West Ham,29,3,1,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.06,0,0.06,0.06,0.06,Matches,26f6dca8
+213,Juan Larios,es ESP,DF,Southampton,18,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,cf7fb13a
+214,Jamaal Lascelles,eng ENG,DF,Newcastle Utd,28,1,1,90,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,450ab6fc
+215,Roméo Lavia,be BEL,MF,Southampton,18,5,5,419,4.7,1,0,1,0,0,1,0,0.21,0,0.21,0.21,0.21,0.1,0.1,0,0.2,0.03,0.01,0.03,0.03,0.03,Matches,ecad9aa5
+216,Clément Lenglet,fr FRA,DF,Tottenham,27,3,2,185,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Matches,4f28a6ff
+217,Bernd Leno,de GER,GK,Fulham,30,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2628fd2b
+218,Jefferson Lerma,co COL,MFDF,Bournemouth,27,7,7,630,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,0.3,0.3,0,0.3,0.05,0,0.05,0.05,0.05,Matches,9b5ce51a
+219,Rico Lewis,eng ENG,DF,Manchester City,17,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b57e066e
+220,Keane Lewis-Potter,eng ENG,FWMF,Brentford,21,5,2,212,2.4,0,1,0,0,0,0,0,0,0.42,0.42,0,0.42,0.6,0.6,0.8,1.4,0.24,0.35,0.59,0.24,0.59,Matches,41f08ac8
+221,Jesse Lingard,eng ENG,MFFW,Nott'ham Forest,29,6,5,425,4.7,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.4,0.7,0.07,0.08,0.15,0.07,0.15,Matches,810e3c74
+222,Diego Llorente,es ESP,DF,Leeds United,29,6,6,540,6,0,0,0,0,0,1,0,0,0,0,0,0,0.4,0.4,0,0.4,0.06,0,0.06,0.06,0.06,Matches,bba30585
+223,Hugo Lloris,fr FRA,GK,Tottenham,35,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8f62b6ee
+224,Renan Lodi,br BRA,DF,Nott'ham Forest,24,3,3,248,2.8,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.07,0.06,0.13,0.07,0.13,Matches,ed9f7cfe
+225,Ruben Loftus-Cheek,eng ENG,MFDF,Chelsea,26,6,5,423,4.7,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.3,0.9,0.13,0.05,0.18,0.13,0.18,Matches,e97fd090
+226,Sean Longstaff,eng ENG,MF,Newcastle Utd,24,7,3,336,3.7,0,1,0,0,0,1,0,0,0.27,0.27,0,0.27,0.2,0.2,0.7,0.9,0.05,0.2,0.24,0.05,0.24,Matches,a2b105e0
+227,Jamal Lowe,jm JAM,FW,Bournemouth,28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b2856bc0
+228,Douglas Luiz,br BRA,MF,Aston Villa,24,6,2,247,2.7,1,0,1,0,0,1,0,0.36,0,0.36,0.36,0.36,0,0,0.3,0.4,0.01,0.11,0.13,0.01,0.13,Matches,6f7d826d
+229,Lyanco,br BRA,DFMF,Southampton,25,3,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b5bf1770
+230,Alexis Mac Allister,ar ARG,MF,Brighton,23,6,6,540,6,4,0,1,3,3,3,0,0.67,0,0.67,0.17,0.17,2.7,0.3,0,0.3,0.45,0,0.45,0.06,0.06,Matches,83d074ff
+231,James Maddison,eng ENG,MFFW,Leicester City,25,6,6,540,6,3,1,3,0,0,2,0,0.5,0.17,0.67,0.5,0.67,1,1,0.5,1.5,0.16,0.08,0.25,0.16,0.25,Matches,ee38d9c5
+232,Harry Maguire,eng ENG,DF,Manchester Utd,29,3,2,191,2.1,0,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0,0.2,0.08,0.01,0.09,0.08,0.09,Matches,d8931174
+233,Riyad Mahrez,dz ALG,FWMF,Manchester City,31,6,2,226,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0.6,0.4,1,0.23,0.17,0.4,0.23,0.4,Matches,892d5bb1
+234,Ainsley Maitland-Niles,eng ENG,MFDF,Southampton,25,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,e3a5814e
+235,Tyrell Malacia,nl NED,DF,Manchester Utd,23,6,4,406,4.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.01,0,0.01,0.01,0.01,Matches,6b6c793c
+236,Orel Mangala,be BEL,MF,Nott'ham Forest,24,3,2,153,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.05,0.02,0.06,0.05,0.06,Matches,a572e291
+237,Sekou Mara,fr FRA,FWMF,Southampton,20,5,1,121,1.3,0,1,0,0,0,0,0,0,0.74,0.74,0,0.74,0.3,0.3,0.2,0.5,0.24,0.15,0.39,0.24,0.39,Matches,3544641e
+238,Solly March,eng ENG,DFMF,Brighton,28,6,6,494,5.5,0,0,0,0,0,1,0,0,0,0,0,0,1.8,1.8,0.2,2,0.32,0.04,0.36,0.32,0.36,Matches,bb5fbd2b
+239,Emiliano Marcondes,dk DEN,MF,Bournemouth,27,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4d960fc3
+240,Marquinhos,br BRA,FW,Arsenal,19,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,59878425
+241,Anthony Martial,fr FRA,FW,Manchester Utd,26,1,0,45,0.5,0,1,0,0,0,0,0,0,2,2,0,2,0,0,0.4,0.4,0,0.88,0.88,0,0.88,Matches,8b788c01
+242,Martinelli,br BRA,FW,Arsenal,21,7,7,600,6.7,3,0,3,0,0,0,0,0.45,0,0.45,0.45,0.45,2,2,1.9,3.9,0.31,0.28,0.59,0.31,0.59,Matches,48a5a5d6
+243,Emiliano Martínez,ar ARG,GK,Aston Villa,30,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7956236f
+244,Lisandro Martínez,ar ARG,DF,Manchester Utd,24,6,6,484,5.4,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0,0.2,0.04,0,0.04,0.04,0.04,Matches,bac46a10
+245,Jean-Philippe Mateta,fr FRA,FW,Crystal Palace,25,5,2,186,2.1,1,0,1,0,0,1,0,0.48,0,0.48,0.48,0.48,1.2,1.2,0.2,1.3,0.56,0.08,0.64,0.56,0.64,Matches,50e6dc35
+246,Joël Matip,cm CMR,DF,Liverpool,31,2,1,101,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b217ef29
+247,Neal Maupay,fr FRA,FW,Everton,26,2,2,178,2,1,0,1,0,0,0,0,0.51,0,0.51,0.51,0.51,0.7,0.7,0.1,0.8,0.38,0.04,0.42,0.38,0.42,Matches,4bcf39f6
+248,Kevin Mbabu,ch SUI,DF,Fulham,27,4,0,89,1,0,1,0,0,0,1,0,0,1.01,1.01,0,1.01,0,0,0.3,0.3,0,0.28,0.28,0,0.28,Matches,493924a7
+249,Bryan Mbeumo,fr FRA,FWDF,Brentford,23,7,7,553,6.1,2,0,2,0,0,0,0,0.33,0,0.33,0.33,0.33,1.6,1.6,0.7,2.4,0.27,0.12,0.38,0.27,0.38,Matches,6afaebf2
+250,John McGinn,sct SCO,MF,Aston Villa,27,7,7,567,6.3,0,0,0,0,0,2,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.03,0.03,0.06,0.03,0.06,Matches,90f91999
+251,Scott McKenna,sct SCO,DF,Nott'ham Forest,25,7,7,630,7,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0.2,0.2,0,0.03,0.03,0,0.03,Matches,4e5a4cbc
+252,Dwight McNeil,eng ENG,FW,Everton,22,7,4,357,4,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.2,0.5,0.08,0.05,0.13,0.08,0.13,Matches,fc15fb84
+253,Scott McTominay,sct SCO,MF,Manchester Utd,25,6,5,482,5.4,0,0,0,0,0,4,0,0,0,0,0,0,0.2,0.2,0,0.3,0.04,0.01,0.05,0.04,0.05,Matches,d93c2511
+254,Ben Mee,eng ENG,DF,Brentford,32,7,7,598,6.6,1,0,1,0,0,1,0,0.15,0,0.15,0.15,0.15,1.2,1.2,0,1.2,0.19,0,0.19,0.19,0.19,Matches,8df7a2fb
+255,Edouard Mendy,sn SEN,GK,Chelsea,30,6,6,540,6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,33887998
+256,Chris Mepham,wls WAL,DF,Bournemouth,24,7,7,621,6.9,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,fed96827
+257,Illan Meslier,fr FRA,GK,Leeds United,22,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6b625ac2
+258,Alexander Mighten,eng ENG,FW,Nott'ham Forest,20,1,0,8,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,10ec4169
+259,Luka Milivojević,rs SRB,MF,Crystal Palace,31,4,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2ce2508a
+260,James Milner,eng ENG,MFDF,Liverpool,36,6,2,240,2.7,0,1,0,0,0,0,0,0,0.37,0.37,0,0.37,0.3,0.3,0.8,1.1,0.11,0.29,0.41,0.11,0.41,Matches,2f90f6b8
+261,Yerry Mina,co COL,DF,Everton,27,1,1,69,0.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6d5701f2
+262,Tyrone Mings,eng ENG,DF,Aston Villa,29,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.02,0.02,0,0.02,Matches,8397a50c
+263,Tyrick Mitchell,eng ENG,DF,Crystal Palace,23,6,5,387,4.3,0,1,0,0,0,0,0,0,0.23,0.23,0,0.23,0,0,0.3,0.3,0,0.08,0.08,0,0.08,Matches,5cbd1eb0
+264,Kaoru Mitoma,jp JPN,DFMF,Brighton,25,4,0,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.39,0.39,0,0.39,Matches,74618572
+265,Aleksandar Mitrović,rs SRB,FW,Fulham,28,7,7,628,7,6,0,5,1,2,2,0,0.86,0,0.86,0.72,0.72,5,3.4,0.2,3.6,0.71,0.03,0.75,0.49,0.52,Matches,3925dbd6
+266,Kieffer Moore,wls WAL,FW,Bournemouth,30,7,4,375,4.2,1,0,1,0,0,0,0,0.24,0,0.24,0.24,0.24,0.3,0.3,0.1,0.4,0.08,0.02,0.09,0.08,0.09,Matches,01ce9e70
+267,Mason Mount,eng ENG,MFFW,Chelsea,23,6,5,396,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0.6,0.6,1.1,0.13,0.13,0.26,0.13,0.26,Matches,9674002f
+268,Lucas Moura,br BRA,DFFW,Tottenham,30,2,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,2b622f01
+269,João Moutinho,pt POR,MF,Wolves,36,5,5,416,4.6,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.2,0.5,0.06,0.04,0.1,0.06,0.1,Matches,f5a00fa4
+270,Jacob Murphy,eng ENG,FW,Newcastle Utd,27,7,0,100,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.2,0,0.2,0.2,0.2,Matches,de112b84
+271,Enock Mwepu,zm ZAM,FWMF,Brighton,24,6,2,213,2.4,0,1,0,0,0,0,0,0,0.42,0.42,0,0.42,0,0,0.4,0.4,0.02,0.16,0.18,0.02,0.18,Matches,1d5cab82
+272,Vitaliy Mykolenko,ua UKR,DF,Everton,23,7,7,625,6.9,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.4,0.7,0.05,0.05,0.1,0.05,0.1,Matches,30d4a2e5
+273,Wilfred Ndidi,ng NGA,MFDF,Leicester City,25,7,6,536,6,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0,0.01,0.01,0.01,Matches,6b47c5db
+274,Neto,br BRA,GK,Bournemouth,33,3,3,270,3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,a9dc785c
+275,Pedro Neto,pt POR,FWMF,Wolves,22,7,7,576,6.4,0,0,0,0,0,1,0,0,0,0,0,0,0.7,0.7,0.8,1.5,0.11,0.13,0.23,0.11,0.23,Matches,7ba2eaa9
+276,Rúben Neves,pt POR,MF,Wolves,25,7,7,630,7,1,0,1,0,0,4,0,0.14,0,0.14,0.14,0.14,0.3,0.3,0.5,0.8,0.04,0.06,0.11,0.04,0.11,Matches,44bfb6c5
+277,Moussa Niakhate,fr FRA,DF,Nott'ham Forest,26,2,2,160,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0,0.5,0.26,0,0.26,0.26,0.26,Matches,242715
+278,Rasmus Nissen,dk DEN,DF,Leeds United,25,5,5,450,5,0,0,0,0,0,2,0,0,0,0,0,0,0.4,0.4,0.2,0.6,0.08,0.04,0.12,0.08,0.12,Matches,39769cff
+279,Eddie Nketiah,eng ENG,FW,Arsenal,23,7,0,95,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0.7,0.2,0.9,0.67,0.16,0.83,0.67,0.83,Matches,a53649b7
+280,Christian Nørgaard,dk DEN,MF,Brentford,28,4,4,309,3.4,1,0,1,0,0,0,0,0.29,0,0.29,0.29,0.29,0.6,0.6,0.1,0.7,0.17,0.04,0.21,0.17,0.21,Matches,df0a4c90
+281,Matheus Nunes,pt POR,MF,Wolves,24,5,5,434,4.8,0,1,0,0,0,1,0,0,0.21,0.21,0,0.21,0.5,0.5,0.4,0.8,0.09,0.08,0.17,0.09,0.17,Matches,e6af02e0
+282,Darwin Núñez,uy URU,FW,Liverpool,23,3,2,175,1.9,1,1,1,0,0,0,1,0.51,0.51,1.03,0.51,1.03,2,2,0.8,2.8,1.01,0.41,1.42,1.01,1.42,Matches,4d77b365
+283,Ethan Nwaneri,eng ENG,MF,Arsenal,15,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,7f94982c
+284,Lewis O'Brien,eng ENG,MF,Nott'ham Forest,23,6,5,439,4.9,1,0,1,0,0,2,0,0.21,0,0.21,0.21,0.21,0.4,0.4,0.2,0.6,0.09,0.04,0.13,0.09,0.13,Matches,089667a5
+285,Martin Ødegaard,no NOR,MF,Arsenal,23,6,6,494,5.5,3,0,3,0,0,1,0,0.55,0,0.55,0.55,0.55,1.7,1.7,0.6,2.3,0.32,0.1,0.42,0.32,0.42,Matches,79300479
+286,Angelo Ogbonna,it ITA,DF,West Ham,34,2,0,27,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,74b2cd7e
+287,Michael Olise,fr FRA,MFFW,Crystal Palace,20,5,1,149,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.3,0.4,0.09,0.15,0.25,0.09,0.25,Matches,c4486bac
+288,Amadou Onana,be BEL,MF,Everton,21,6,4,391,4.3,0,0,0,0,0,2,0,0,0,0,0,0,0.7,0.7,0.2,0.8,0.16,0.04,0.19,0.16,0.19,Matches,828657ff
+289,Frank Onyeka,ng NGA,MF,Brentford,24,4,0,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.11,0.11,0,0.11,Matches,2944f86f
+290,João Palhinha,pt POR,MF,Fulham,27,7,7,621,6.9,2,0,2,0,0,5,0,0.29,0,0.29,0.29,0.29,0.5,0.5,0,0.5,0.07,0,0.07,0.07,0.07,Matches,a78ff07f
+291,Cole Palmer,eng ENG,MFFW,Manchester City,20,4,0,55,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.08,0.08,0,0.08,Matches,dc7f8a28
+292,Emerson Palmieri,it ITA,DF,West Ham,28,4,2,142,1.6,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,e0bc6fdc
+293,Lucas Paquetá,br BRA,MFFW,West Ham,25,3,2,167,1.9,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0,0.1,0.08,0,0.08,0.08,0.08,Matches,9b6f7fd5
+294,Thomas Partey,gh GHA,MF,Arsenal,29,4,4,347,3.9,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,0.08,0,0.08,0.08,0.08,Matches,529f49ab
+295,Nathan Patterson,sct SCO,DF,Everton,20,7,7,630,7,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0.4,0.7,0.05,0.05,0.1,0.05,0.1,Matches,230f0471
+296,Ben Pearson,eng ENG,MF,Bournemouth,27,4,3,211,2.3,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0.02,0,0.02,0.02,0.02,Matches,a6b461e7
+297,Andreas Pereira,br BRA,MF,Fulham,26,7,7,560,6.2,0,1,0,0,0,1,0,0,0.16,0.16,0,0.16,0.4,0.4,1.1,1.5,0.06,0.17,0.24,0.06,0.24,Matches,6639e500
+298,Ayoze Pérez,es ESP,MF,Leicester City,29,2,1,100,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.4,0.5,0.1,0.37,0.47,0.1,0.47,Matches,819aa8e7
+299,Ivan Perišić,hr CRO,DF,Tottenham,33,7,4,336,3.7,0,3,0,0,0,2,0,0,0.8,0.8,0,0.8,0.1,0.1,1.6,1.8,0.03,0.44,0.47,0.03,0.47,Matches,6fe90922
+300,Romain Perraud,fr FRA,DF,Southampton,24,5,3,210,2.3,0,1,0,0,0,0,0,0,0.43,0.43,0,0.43,0.1,0.1,0.4,0.5,0.05,0.17,0.22,0.05,0.22,Matches,6dfd8f05
+301,Kalvin Phillips,eng ENG,MF,Manchester City,26,1,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4f565d77
+302,Nathaniel Phillips,eng ENG,DF,Liverpool,25,1,1,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.08,0,0.08,0.08,0.08,Matches,515ebe8d
+303,Jordan Pickford,eng ENG,GK,Everton,28,6,6,540,6,0,1,0,0,0,2,0,0,0.17,0.17,0,0.17,0,0,0.6,0.6,0,0.09,0.09,0,0.09,Matches,4806ec67
+304,Daniel Podence,pt POR,MFFW,Wolves,26,7,5,412,4.6,2,0,2,0,0,1,0,0.44,0,0.44,0.44,0.44,1.1,1.1,0.8,2,0.24,0.18,0.43,0.24,0.43,Matches,7fcc71d8
+305,Nick Pope,eng ENG,GK,Newcastle Utd,30,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4b40d9ca
+306,Dennis Praet,be BEL,FWMF,Leicester City,28,2,1,82,0.9,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,86695068
+307,Christian Pulisic,us USA,FWMF,Chelsea,24,6,1,160,1.8,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.2,0.09,0.02,0.11,0.09,0.11,Matches,1bf33a9a
+308,Aaron Ramsdale,eng ENG,GK,Arsenal,24,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,466fb2c5
+309,Jacob Ramsey,eng ENG,MF,Aston Villa,21,7,6,495,5.5,1,1,1,0,0,3,0,0.18,0.18,0.36,0.18,0.36,0.5,0.5,0.6,1.1,0.09,0.11,0.2,0.09,0.2,Matches,1544f145
+310,Marcus Rashford,eng ENG,FW,Manchester Utd,24,6,6,520,5.8,3,2,3,0,0,1,0,0.52,0.35,0.87,0.52,0.87,2.1,2.1,1.1,3.2,0.36,0.2,0.56,0.36,0.56,Matches,a1d5bd30
+311,David Raya,es ESP,GK,Brentford,27,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,98ea5115
+312,Tim Ream,us USA,DF,Fulham,34,7,7,627,7,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0,0.01,0.01,0.01,Matches,28b40c9c
+313,Nathan Redmond,eng ENG,DF,Southampton,28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ab651565
+314,Harrison Reed,eng ENG,MF,Fulham,27,7,7,629,7,1,0,1,0,0,2,0,0.14,0,0.14,0.14,0.14,0.4,0.4,0.4,0.9,0.06,0.06,0.12,0.06,0.12,Matches,803ae100
+315,Bobby Reid,jm JAM,FW,Fulham,29,7,7,596,6.6,1,1,1,0,0,3,0,0.15,0.15,0.3,0.15,0.3,1.2,1.2,0.3,1.5,0.18,0.05,0.23,0.18,0.23,Matches,0f7533cd
+316,Declan Rice,eng ENG,MF,West Ham,23,7,7,630,7,0,1,0,0,1,1,0,0,0.14,0.14,0,0.14,1,0.2,0.7,0.9,0.14,0.1,0.24,0.03,0.13,Matches,1c7012b8
+317,Chris Richards,us USA,DF,Crystal Palace,22,3,0,47,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.09,0,0.09,0.09,0.09,Matches,0a3d6d2b
+318,Richarlison,br BRA,MFFW,Tottenham,25,6,2,229,2.5,0,2,0,0,0,2,0,0,0.79,0.79,0,0.79,0.7,0.7,1.1,1.8,0.27,0.44,0.71,0.27,0.71,Matches,fa031b34
+319,Matt Ritchie,sct SCO,FW,Newcastle Utd,33,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,71ef519e
+320,Andrew Robertson,sct SCO,DF,Liverpool,28,6,5,406,4.5,0,1,0,0,0,0,0,0,0.22,0.22,0,0.22,0.2,0.2,0.7,0.9,0.04,0.16,0.2,0.04,0.2,Matches,2e4f5f03
+321,Antonee Robinson,us USA,DF,Fulham,25,6,6,478,5.3,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.4,0.4,0.01,0.07,0.07,0.01,0.07,Matches,2.90E+11
+322,Marc Roca,es ESP,MF,Leeds United,25,6,6,452,5,1,0,1,0,0,1,0,0.2,0,0.2,0.2,0.2,0.7,0.7,0.2,0.9,0.14,0.03,0.17,0.14,0.17,Matches,da27e268
+323,Marek Rodák,sk SVK,GK,Fulham,25,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,17acc2ed
+324,Rodri,es ESP,MF,Manchester City,26,7,7,582,6.5,0,2,0,0,0,1,0,0,0.31,0.31,0,0.31,0.5,0.5,0.3,0.8,0.07,0.05,0.12,0.07,0.12,Matches,6434f10d
+325,Rodrigo,es ESP,FWMF,Leeds United,31,5,5,357,4,4,1,4,0,0,0,0,1.01,0.25,1.26,1.01,1.26,2.4,2.4,0.7,3,0.59,0.17,0.76,0.59,0.76,Matches,1fb1c435
+326,Mads Roerslev,dk DEN,DF,Brentford,23,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,57c94db2
+327,Cristian Romero,ar ARG,DF,Tottenham,24,4,3,302,3.4,0,0,0,0,0,1,0,0,0,0,0,0,0.2,0.2,0,0.2,0.07,0,0.07,0.07,0.07,Matches,a3d94a58
+328,Oriol Romeu,es ESP,MF,Southampton,30,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,4b511457
+329,Cristiano Ronaldo,pt POR,FW,Manchester Utd,37,6,1,212,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0.7,0.3,1.1,0.31,0.14,0.45,0.31,0.45,Matches,dea698d9
+330,Salomón Rondón,ve VEN,FW,Everton,33,4,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0.7,0,0.7,0.7,0.03,0.73,0.7,0.73,Matches,b318a643
+331,José Sá,pt POR,GK,Wolves,29,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,903b6e8b
+332,Allan Saint-Maximin,fr FRA,FW,Newcastle Utd,25,4,4,342,3.8,1,2,1,0,0,1,0,0.26,0.53,0.79,0.26,0.79,1,1,1,1.9,0.25,0.26,0.51,0.25,0.51,Matches,2b16cb1a
+333,Bukayo Saka,eng ENG,FW,Arsenal,21,7,7,616,6.8,1,4,1,0,0,1,0,0.15,0.58,0.73,0.15,0.73,1.6,1.6,0.9,2.5,0.23,0.13,0.36,0.23,0.36,Matches,bc7dc64d
+334,Mohamed Salah,eg EGY,FW,Liverpool,30,6,6,540,6,2,2,2,0,0,0,0,0.33,0.33,0.67,0.33,0.67,2.5,2.5,1.8,4.3,0.42,0.29,0.72,0.42,0.72,Matches,e342ad68
+335,William Saliba,fr FRA,DF,Arsenal,21,7,7,630,7,2,1,2,0,0,2,0,0.29,0.14,0.43,0.29,0.43,0.3,0.3,0.9,1.1,0.04,0.13,0.16,0.04,0.16,Matches,972aeb2a
+336,Mohammed Salisu,gh GHA,DF,Southampton,23,7,7,630,7,0,0,0,0,0,2,0,0,0,0,0,0,0.3,0.3,0.1,0.4,0.04,0.01,0.05,0.04,0.05,Matches,0b33f6ad
+337,Albert Sambi Lokonga,be BEL,MF,Arsenal,22,5,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.01,0.01,0,0.01,Matches,1b4f1169
+338,Davinson Sánchez,co COL,DF,Tottenham,26,4,4,328,3.6,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0,0.3,0.08,0,0.08,0.08,0.08,Matches,da7b447d
+339,Robert Sánchez,es ESP,GK,Brighton,24,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6a713852
+340,Jadon Sancho,eng ENG,FW,Manchester Utd,22,6,6,418,4.6,2,0,2,0,0,0,0,0.43,0,0.43,0.43,0.43,1.1,1.1,0.4,1.5,0.24,0.08,0.32,0.24,0.32,Matches,dbf053da
+341,Gianluca Scamacca,it ITA,FW,West Ham,23,5,1,171,1.9,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.03,0.06,0.1,0.03,0.1,Matches,8790f988
+342,Fabian Schär,ch SUI,DF,Newcastle Utd,30,6,6,540,6,1,0,1,0,0,3,0,0.17,0,0.17,0.17,0.17,0.6,0.6,0.2,0.8,0.1,0.03,0.13,0.1,0.13,Matches,c8aa95da
+343,Jeffrey Schlupp,gh GHA,MF,Crystal Palace,29,6,6,508,5.6,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0,0.6,0.11,0,0.11,0.11,0.11,Matches,3312f911
+344,Nélson Semedo,pt POR,DF,Wolves,28,5,2,192,2.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.2,0.2,0.01,0.08,0.09,0.01,0.09,Matches,d04b94db
+345,Marcos Senesi,ar ARG,DF,Bournemouth,25,4,3,236,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,35141f4c
+346,Ryan Sessegnon,eng ENG,DF,Tottenham,22,6,4,333,3.7,1,0,1,0,0,1,0,0.27,0,0.27,0.27,0.27,0.7,0.7,0,0.7,0.19,0,0.19,0.19,0.19,Matches,6aa3e78b
+347,Luke Shaw,eng ENG,DF,Manchester Utd,27,2,2,134,1.5,0,0,0,0,0,1,0,0,0,0,0,0,0.1,0.1,0.3,0.4,0.07,0.17,0.24,0.07,0.24,Matches,9c94165b
+348,Bernardo Silva,pt POR,MFFW,Manchester City,28,7,5,452,5,2,3,2,0,0,0,0,0.4,0.6,1,0.4,1,0.8,0.8,1,1.8,0.17,0.19,0.36,0.17,0.36,Matches,3eb22ec9
+349,Thiago Silva,br BRA,DF,Chelsea,37,6,6,540,6,0,1,0,0,0,0,0,0,0.17,0.17,0,0.17,0.1,0.1,0.2,0.3,0.02,0.03,0.05,0.02,0.05,Matches,86e7deaf
+350,Luis Sinisterra,co COL,FWMF,Leeds United,23,5,2,181,2,2,0,2,0,0,1,0,0.99,0,0.99,0.99,0.99,0.8,0.8,0,0.8,0.39,0.01,0.4,0.39,0.4,Matches,8e16dd48
+351,Adam Smith,eng ENG,DF,Bournemouth,31,7,7,585,6.5,0,0,0,0,0,4,0,0,0,0,0,0,0.1,0.1,0.1,0.2,0.01,0.01,0.03,0.01,0.03,Matches,20b104bc
+352,Emile Smith Rowe,eng ENG,MFFW,Arsenal,22,4,0,51,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.5,0.6,0.28,0.81,1.09,0.28,1.09,Matches,17695062
+353,Dominic Solanke,eng ENG,FW,Bournemouth,25,5,4,402,4.5,1,1,1,0,0,0,0,0.22,0.22,0.45,0.22,0.45,0.6,0.6,0.4,1,0.14,0.09,0.23,0.14,0.23,Matches,e77dc3b2
+354,Manor Solomon,il ISR,FW,Fulham,23,1,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,886f9aac
+355,Tomáš Souček,cz CZE,MF,West Ham,27,7,7,630,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,1.4,1.4,0.1,1.4,0.19,0.01,0.2,0.19,0.2,Matches,6613c819
+356,Boubakary Soumaré,fr FRA,MF,Leicester City,23,4,3,221,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,ae59b359
+357,Djed Spence,eng ENG,MF,Tottenham,22,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0,0.3,27.47,0,27.47,27.47,27.47,Matches,9bc9a519
+358,Jack Stacey,eng ENG,DFFW,Bournemouth,26,3,1,95,1.1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,558807c0
+359,Junior Stanislas,eng ENG,MF,Bournemouth,32,2,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.15,0,0.15,0.15,0.15,Matches,6992791d
+360,Jay Stansfield,eng ENG,FW,Fulham,19,3,1,87,1,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0.3,0.1,0.3,0.27,0.07,0.35,0.27,0.35,Matches,b2626673
+361,Jack Stephens,eng ENG,DF,Bournemouth,28,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,6adbc307
+362,Jack Stephens,eng ENG,DF,Southampton,28,2,0,46,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.15,0.15,0,0.15,Matches,6adbc307
+363,Raheem Sterling,eng ENG,FWMF,Chelsea,27,6,6,513,5.7,3,1,3,0,0,1,0,0.53,0.18,0.7,0.53,0.7,2.5,2.5,1.1,3.6,0.44,0.2,0.64,0.44,0.64,Matches,b400bde0
+364,John Stones,eng ENG,DF,Manchester City,28,6,5,461,5.1,0,2,0,0,0,1,0,0,0.39,0.39,0,0.39,0.2,0.2,0.7,0.9,0.03,0.14,0.17,0.03,0.17,Matches,5eecec3d
+365,Pascal Struijk,nl NED,DF,Leeds United,23,6,6,540,6,0,1,0,0,0,1,0,0,0.17,0.17,0,0.17,0.3,0.3,1,1.3,0.05,0.17,0.22,0.05,0.22,Matches,f4d296e4
+366,Crysencio Summerville,nl NED,FW,Leeds United,20,2,0,39,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,df04eb4b
+367,Sam Surridge,eng ENG,FW,Nott'ham Forest,24,4,1,103,1.1,0,0,0,0,0,1,0,0,0,0,0,0,0.3,0.3,0,0.3,0.23,0,0.23,0.23,0.23,Matches,b017b770
+368,Matt Targett,eng ENG,DF,Newcastle Utd,27,5,4,374,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0.7,0.01,0.15,0.16,0.01,0.16,Matches,e514ab62
+369,James Tarkowski,eng ENG,DF,Everton,29,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0.1,0.6,0.08,0.02,0.09,0.08,0.09,Matches,15ea812b
+370,Marcus Tavernier,eng ENG,FWMF,Bournemouth,23,7,7,603,6.7,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0.6,1.2,0.08,0.09,0.18,0.08,0.18,Matches,5c0da4a4
+371,Kenny Tete,nl NED,DF,Fulham,26,7,7,603,6.7,0,3,0,0,0,4,0,0,0.45,0.45,0,0.45,0,0,0.3,0.3,0,0.05,0.05,0,0.05,Matches,77d7c96f
+372,Luke Thomas,eng ENG,DF,Leicester City,21,2,2,180,2,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,fc027d02
+373,Youri Tielemans,be BEL,MF,Leicester City,25,7,6,502,5.6,1,1,0,1,1,0,0,0.18,0.18,0.36,0,0.18,1,0.2,1.6,1.8,0.18,0.29,0.47,0.04,0.33,Matches,56f7a928
+374,Kieran Tierney,sct SCO,DF,Arsenal,25,6,3,265,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0.1,0.3,0.06,0.04,0.1,0.06,0.1,Matches,fce2302c
+375,Harry Toffolo,eng ENG,DF,Nott'ham Forest,27,5,4,382,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.4,0.6,0.03,0.1,0.14,0.03,0.14,Matches,a105d46a
+376,Takehiro Tomiyasu,jp JPN,DF,Arsenal,23,6,0,76,0.8,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0.1,0.1,0,0.06,0.06,0,0.06,Matches,b3af9be1
+377,Ivan Toney,eng ENG,FW,Brentford,26,7,7,630,7,5,2,4,1,1,1,0,0.71,0.29,1,0.57,0.86,2.7,2,1.9,3.9,0.39,0.27,0.66,0.28,0.55,Matches,e09f279b
+378,Adama Traoré,es ESP,FWDF,Wolves,26,4,0,58,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9a28eba4
+379,Boubacar Traoré,ml MLI,MF,Wolves,21,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,999ceb5f
+380,Mark Travers,ie IRL,GK,Bournemouth,23,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,fe558029
+381,Kieran Trippier,eng ENG,DF,Newcastle Utd,32,7,7,630,7,1,0,1,0,0,2,0,0.14,0,0.14,0.14,0.14,0.3,0.3,1.1,1.3,0.04,0.15,0.19,0.04,0.19,Matches,21512407
+382,Leandro Trossard,be BEL,DFFW,Brighton,27,6,6,493,5.5,2,1,2,0,0,1,0,0.37,0.18,0.55,0.37,0.55,1.1,1.1,0.7,1.9,0.21,0.13,0.34,0.21,0.34,Matches,38ceb24a
+383,Kostas Tsimikas,gr GRE,DF,Liverpool,26,5,1,134,1.5,0,2,0,0,0,1,0,0,1.34,1.34,0,1.34,0.1,0.1,0.4,0.5,0.06,0.26,0.32,0.06,0.32,Matches,f315ca93
+384,Deniz Undav,de GER,MFFW,Brighton,26,3,0,20,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0.4,0.4,0.1,0.5,1.66,0.6,2.26,1.66,2.26,Matches,dd549382
+385,Yan Valery,fr FRA,DF,Southampton,23,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,531a4aa8
+386,Virgil van Dijk,nl NED,DF,Liverpool,31,6,6,540,6,1,0,1,0,0,1,0,0.17,0,0.17,0.17,0.17,0.4,0.4,0,0.5,0.07,0,0.08,0.07,0.08,Matches,e06683ca
+387,Raphaël Varane,fr FRA,DF,Manchester Utd,29,5,4,405,4.5,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0.1,0.01,0.01,0.02,0.01,0.02,Matches,9f8e9423
+388,Jamie Vardy,eng ENG,FW,Leicester City,35,7,5,435,4.8,0,2,0,0,0,0,0,0,0.41,0.41,0,0.41,0.9,0.9,0.4,1.3,0.19,0.09,0.28,0.19,0.28,Matches,45963054
+389,Joël Veltman,nl NED,DF,Brighton,30,6,6,492,5.5,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0,0.1,0.01,0,0.02,0.01,0.02,Matches,dad4b285
+390,Fabio Vieira,pt POR,MF,Arsenal,22,2,1,106,1.2,1,0,1,0,0,0,0,0.85,0,0.85,0.85,0.85,0.1,0.1,0,0.1,0.08,0.04,0.12,0.08,0.12,Matches,6412cc03
+391,Rúben Vinagre,pt POR,DF,Everton,23,2,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,b937e490
+392,Carlos Vinícius,br BRA,FW,Fulham,27,2,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8b529245
+393,Kyle Walker,eng ENG,DF,Manchester City,32,6,6,520,5.8,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.3,0.03,0.02,0.05,0.03,0.05,Matches,86dd77d1
+394,Kyle Walker-Peters,eng ENG,DF,Southampton,25,7,7,629,7,1,0,1,0,0,0,0,0.14,0,0.14,0.14,0.14,0.5,0.5,0.2,0.7,0.07,0.03,0.1,0.07,0.1,Matches,984a5a64
+395,Aaron Wan-Bissaka,eng ENG,DF,Manchester Utd,24,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,9e525177
+396,Danny Ward,wls WAL,GK,Leicester City,29,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,d3ce0e89
+397,Joel Ward,eng ENG,DF,Crystal Palace,32,5,5,450,5,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches,8a7ff278
+398,James Ward-Prowse,eng ENG,MF,Southampton,27,7,7,630,7,1,1,1,0,0,2,0,0.14,0.14,0.29,0.14,0.29,0.4,0.4,1.1,1.5,0.05,0.16,0.21,0.05,0.21,Matches,3515d404
+399,Ollie Watkins,eng ENG,FW,Aston Villa,26,7,6,565,6.3,1,2,1,0,0,0,0,0.16,0.32,0.48,0.16,0.48,1.2,1.2,1.1,2.3,0.19,0.18,0.37,0.19,0.37,Matches,aed3a70f
+400,Adam Webster,eng ENG,DF,Brighton,27,6,6,540,6,0,0,0,0,0,1,0,0,0,0,0,0,0.6,0.6,0,0.6,0.1,0,0.11,0.1,0.11,Matches,c40b6180
+401,Danny Welbeck,eng ENG,FW,Brighton,31,6,5,474,5.3,0,1,0,0,0,0,0,0,0.19,0.19,0,0.19,1.1,1.1,1.1,2.2,0.2,0.21,0.41,0.2,0.41,Matches,ce5143da
+402,Ben White,eng ENG,DF,Arsenal,24,7,7,556,6.2,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0.6,0.6,0,0.09,0.09,0,0.09,Matches,35e413f1
+403,Neco Williams,wls WAL,DF,Nott'ham Forest,21,7,7,627,7,0,0,0,0,0,2,0,0,0,0,0,0,0.5,0.5,0.9,1.4,0.07,0.13,0.2,0.07,0.2,Matches,dd323728
+404,Willian,br BRA,FWMF,Fulham,34,2,1,100,1.1,0,1,0,0,0,0,0,0,0.9,0.9,0,0.9,0,0,0.1,0.1,0,0.1,0.1,0,0.1,Matches,8b9ebd03
+405,Joe Willock,eng ENG,MF,Newcastle Utd,23,7,7,576,6.4,0,0,0,0,0,0,0,0,0,0,0,0,1.5,1.5,0.6,2.1,0.23,0.09,0.32,0.23,0.32,Matches,a3b03921
+406,Callum Wilson,eng ENG,FW,Newcastle Utd,30,3,3,244,2.7,2,0,2,0,0,0,0,0.74,0,0.74,0.74,0.74,1.2,1.2,0.2,1.4,0.45,0.06,0.51,0.45,0.51,Matches,c596fcb0
+407,Yoane Wissa,cd COD,FW,Brentford,26,7,3,284,3.2,2,1,2,0,0,1,0,0.63,0.32,0.95,0.63,0.95,1.5,1.5,0,1.5,0.48,0,0.48,0.48,0.48,Matches,2500cef9
+408,Chris Wood,nz NZL,FW,Newcastle Utd,30,7,1,120,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0.2,0.2,0,0.2,0.13,0.04,0.17,0.13,0.17,Matches,4e9a0555
+409,Joe Worrall,eng ENG,DF,Nott'ham Forest,25,7,6,568,6.3,0,0,0,0,0,3,0,0,0,0,0,0,0.2,0.2,0.2,0.4,0.03,0.04,0.06,0.03,0.06,Matches,a5212312
+410,Granit Xhaka,ch SUI,MF,Arsenal,29,7,7,627,7,1,3,1,0,0,2,0,0.14,0.43,0.57,0.14,0.57,0.8,0.8,0.9,1.8,0.12,0.13,0.26,0.12,0.26,Matches,e61b8aee
+411,Ryan Yates,eng ENG,MF,Nott'ham Forest,24,5,4,358,4,0,1,0,0,0,0,0,0,0.25,0.25,0,0.25,0.9,0.9,0.1,1,0.23,0.03,0.26,0.23,0.26,Matches,c1fe2a48
+412,Ashley Young,eng ENG,DF,Aston Villa,37,3,1,155,1.7,0,0,0,0,0,2,0,0,0,0,0,0,0.1,0.1,0,0.1,0.04,0.02,0.06,0.04,0.06,Matches,be927d03
+413,Wilfried Zaha,ci CIV,FWMF,Crystal Palace,29,5,5,441,4.9,4,0,4,0,1,1,0,0.82,0,0.82,0.82,0.82,2.7,1.7,1.1,2.9,0.54,0.23,0.78,0.35,0.59,Matches,b2bc3b1f
+414,Jordan Zemura,zw ZIM,DF,Bournemouth,22,6,6,473,5.3,0,1,0,0,0,1,0,0,0.19,0.19,0,0.19,0,0,0.6,0.6,0,0.12,0.12,0,0.12,Matches,e8271ad9
+415,Oleksandr Zinchenko,ua UKR,DF,Arsenal,25,4,4,321,3.6,0,1,0,0,0,0,0,0,0.28,0.28,0,0.28,0.1,0.1,0.3,0.4,0.04,0.07,0.11,0.04,0.11,Matches,51cf8561
+416,Hakim Ziyech,ma MAR,MF,Chelsea,29,2,1,117,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0.1,0.1,0.1,0.3,0.09,0.11,0.2,0.09,0.2,Matches,6622454d
+417,Kurt Zouma,fr FRA,DF,West Ham,27,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0.5,0,0.5,0.07,0,0.07,0.07,0.07,Matches,ce4246f5
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
