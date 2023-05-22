@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 from mplsoccer.pitch import Pitch
 import seaborn as sns
 
-df = pd.read_csv('C:/Users/dev/Desktop/messibetis.csv')
+df = pd.read_csv('E:/Data-Analytics/Python files/heatmap/messibetis.csv')
 df['x'] = df['x']*1.2
 df['y'] = df['y']*0.8
 df['endX'] = df['endX']*1.2
@@ -21,7 +21,8 @@ fig,ax= plt.subplots(figsize=(13,8.5))
 fig.set_facecolor('#22312b')
 ax.patch.set_facecolor('#22312b')
 
-pitch = Pitch(pitch_type='statsbomb', pitch_color='#22312b', line_color='#c7d5cc',figsize=(16, 11), constrained_layout=True, tight_layout=False)
+pitch = Pitch(pitch_type='statsbomb', pitch_color='#22312b', line_color='#c7d5cc')
+fig, ax = pitch.draw(figsize=(16, 11), constrained_layout=True, tight_layout=False)
 pitch.draw(ax=ax)
 plt.gca().invert_yaxis()
 kde = sns.kdeplot(
