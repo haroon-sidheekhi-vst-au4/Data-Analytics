@@ -8,14 +8,6 @@ Created on Mon Apr 13 11:34:26 2020
 
 Data : https://github.com/metrica-sports/sample-data
 
-Youtube video : https://www.youtube.com/channel/UCUBFJYcag8j2rm_9HkrrA7w
-
-GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
-
-@author: Laurie Shaw (@EightyFivePoint)
-
-Created on Wed May 24 03:44:43 2023
-
 alteration: hp
 """
 

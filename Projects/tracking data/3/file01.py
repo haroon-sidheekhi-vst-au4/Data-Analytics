@@ -1,17 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Created on Mon Apr 13 11:34:26 2020
-
-Script for lesson 6 of "Friends of Tracking" #FoT
-
 Data can be found at: https://github.com/metrica-sports/sample-data
-
-Accompanying video tutorials can be found here: https://www.youtube.com/watch?v=5X1cSehLg6s
-
-GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
-
-@author: Laurie Shaw (@EightyFivePoint)
 
 Created on Thu May 25 01:27:22 2023
 

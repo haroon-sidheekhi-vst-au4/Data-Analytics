@@ -2,6 +2,8 @@
 """
 Created on Mon May 22 23:10:16 2023
 
+data : https://github.com/metrica-sports/sample-data
+
 @author: hp
 """
 
@@ -9,6 +11,7 @@ Created on Mon May 22 23:10:16 2023
 import Metrica_IO as mio
 import Metrica_Viz as mviz
 
+### location of data
 DATADIR = 'E:/Docs/Data/metrica sports sample-data-master/data'
 game_id = 2 # let's look at sample match 2
 
