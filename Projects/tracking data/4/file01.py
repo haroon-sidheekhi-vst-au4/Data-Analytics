@@ -2,17 +2,8 @@
 
 # -*- coding: utf-8 -*-
 """
-Created on Mon Apr 13 11:34:26 2020
-
-Script for tutorial 4 of "Friends of Tracking" #FoT on assessing player passing options using expected possession value (EPV) and pitch control
 
 Data  https://github.com/metrica-sports/sample-data
-
-Tutorials : https://www.youtube.com/watch?v=KXSLKwADXKI
-
-GitHub repo: https://github.com/Friends-of-Tracking-Data-FoTD/LaurieOnTracking
-
-@author: Laurie Shaw (@EightyFivePoint)
 
 Created on Thu May 25 16:48:57 2023
 
