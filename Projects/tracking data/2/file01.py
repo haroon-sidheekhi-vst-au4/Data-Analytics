@@ -37,11 +37,11 @@ events = mio.to_metric_coordinates(events)
 
 
 # reverse direction of play in the second half so that home team is always attacking from right->left
-tracking_home,tracking_away,events = mio.to_single_playing_direction(tracking_home,tracking_away,events)
+#tracking_home,tracking_away,events = mio.to_single_playing_direction(tracking_home,tracking_away,events)
 
 # Making a movie of the second home team goal
 PLOTDIR = DATADIR
-#mviz.save_match_clip(tracking_home.iloc[73600:73600+500],tracking_away.iloc[73600:73600+500],PLOTDIR,fname='home_goal_2',include_player_velocities=False)
+mviz.save_match_clip(tracking_home.iloc[73600:73600+500],tracking_away.iloc[73600:73600+500],PLOTDIR,fname='home_goal_2',include_player_velocities=False)
 
 # Calculate player velocities
 #tracking_home = mvel.calc_player_velocities(tracking_home,smoothing=True)
@@ -148,3 +148,12 @@ for s,e in zip(player_sprints_start,player_sprints_end):
 # END
 
 
+#### Video of each goals
+
+mviz.save_match_clip(tracking_home.iloc[11900:11900+350],tracking_away.iloc[11900:11900+350],PLOTDIR,fname='home_goal_1',include_player_velocities=False)
+
+mviz.save_match_clip(tracking_home.iloc[52800:52800+350],tracking_away.iloc[52800:52800+350],PLOTDIR,fname='away_goal_1',include_player_velocities=False)
+
+mviz.save_match_clip(tracking_home.iloc[114900:114900+150],tracking_away.iloc[114900:114900+150],PLOTDIR,fname='away_goal_2',include_player_velocities=False)
+
+mviz.save_match_clip(tracking_home.iloc[120800:120800+300],tracking_away.iloc[120800:120800+300],PLOTDIR,fname='home_goal_3',include_player_velocities=False)
